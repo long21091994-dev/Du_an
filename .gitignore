@@ -1,2 +1,17 @@
 ~$*
 *.tmp
+
+# Heavy video and audio files
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mkv
+*.avi
+*.wav
+*.WAV
+*.mp3
+*.MP3
+*.flac
+*.m4a
+
